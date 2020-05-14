@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Planet_28" indexUrl="https://github.com/ArtemLuzhin-various-things/Planet_28/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
-  <dataIndexEntries>
-    <dataIndexEntry filePath="Planet_28.gstz" dataType="gamesystem" dataId="f888-d426-e3b3-cd5b" dataName="Planet 28" dataBattleScribeVersion="2.03" dataRevision="10"/>
-    <dataIndexEntry filePath="Gang.catz" dataType="catalogue" dataId="2d5c-80f6-adc4-f419" dataName="Gang" dataBattleScribeVersion="2.03" dataRevision="4"/>
-  </dataIndexEntries>
-</dataIndex>
